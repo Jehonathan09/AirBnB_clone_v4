@@ -218,6 +218,7 @@ github repo
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * Katya Kalache, [katyakalache](https://github.com/katyakalache) [@katyakalache](https://twitter.com/KatyaKalache)
+* Jonathan Mwenge 
 ## License
 
 MIT License
